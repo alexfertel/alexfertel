@@ -6,6 +6,8 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=alexfertel&label=Views&color=lightgrey&style=flat-square" alt="alexfertel" /> 
+</p>
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexfertel&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-bg=true&no-frame=true&column=3" alt="alexfertel" /></a> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfertel&theme=omni&show_icons=true&count_private=true&hide_border=true" />
