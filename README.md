@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 
-- 🔭 I’m currently working at [Swag Up](swagup.com)
+- 🔭 I’m currently working at [Swag Up](https://swagup.com)
 - 🌱 I’m currently learning **Rust**
 - 📫 How to reach me **alexfertel97@gmail.com**
 
