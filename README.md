@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=alexfertel&label=Views&color=lightgrey&style=flat-square" alt="alexfertel" /> 
 </p>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexfertel&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-bg=true&no-frame=true&column=4" alt="alexfertel" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexfertel&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-bg=true&no-frame=true&column=3" alt="alexfertel" /></a> 
 </p>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
