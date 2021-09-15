@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 
 - 🔭 I’m currently working at [Swag Up](https://swagup.com)
-- 🌱 I’m currently learning **Rust**
-- 📫 How to reach me **alexfertel97@gmail.com**
+- 🌱 I’m learning **Rust**
+- 📫 **alexfertel97@gmail.com**
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=alexfertel&label=Views&color=lightgrey&style=flat-square" alt="alexfertel" /> 
