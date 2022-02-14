@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 
-- 🔭 I’m currently working at [Swag Up](https://swagup.com)
+- 🔭 I’m currently working at [Sense Finance](https://sense.finance/) as a Frontend Engineer.
 - 🌱 I’m learning **Rust**
 - 📫 **alexfertel97@gmail.com**
 
